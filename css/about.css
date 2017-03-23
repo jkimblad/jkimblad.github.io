@@ -12,3 +12,23 @@ body {
   height: 100vh;
   z-index: -100;
 }
+
+#navbar {
+  font-size: 24px;
+  color: white;
+  text-shadow: 1px 1px black;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar-left, .navbar-right {
+  display: inline;
+  padding: 5px 5px;
+}
+
+.navbar-left {
+}
+
+.navbar-right {
+  float: right;
+}

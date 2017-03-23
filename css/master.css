@@ -26,6 +26,7 @@
 .header {
   position: relative;
   background: url("../images/header_background.jpg") no-repeat fixed;
+  background-size: cover;
   height: 100vh;
   z-index: -100;
 }
@@ -59,7 +60,6 @@
 .bg-4 {
   text-align: center;
   padding: 20px;
-  margin-bottom: 10px;
   background-color: #2f2f2f;
   color: #ffffff;
 }
