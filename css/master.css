@@ -63,3 +63,18 @@
   background-color: #2f2f2f;
   color: #ffffff;
 }
+
+.icons {
+  display: inline;
+}
+
+.icon {
+  color: #fff;
+  font-size: 36px;
+  display: inline;
+  padding: 10px;
+}
+
+.icon:visited {
+  color: #fff;
+}
